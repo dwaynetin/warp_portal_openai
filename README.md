@@ -1,6 +1,13 @@
 # warp_portal_openai
 
-This is a node command line executable that creates a website and auto-deploys it to your own github page, rather than having to manually do it on your own.
+This is a node command line executable that uses ChatGPT API to creates a website and auto-deploys it to your own github page, rather than having to manually do it on your own.
+
+You type:
+node index.js "Library website"
+
+It gives you the URL where your website is deployed.
+<owner>.github.io/<uniqueURL>
+
 
 You ask Chat GPT to create a website.
 To deploy it publicly, you have to:
