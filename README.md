@@ -6,7 +6,7 @@ You type:
 node index.js "Library website"
 
 It gives you the URL where your website is deployed.
-<owner>.github.io/<uniqueURL>
+owner.github.io/uniqueURL
 
 
 You ask Chat GPT to create a website.
