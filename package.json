@@ -1,0 +1,20 @@
+{
+  "name": "warp_portal_openai",
+  "version": "1.0.0",
+  "description": "Another weekend project where we take OpenAPIs code response and just autopush it as a website. This is not drunk coding - but let's just have fun while we're doing shitty things",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"src/**/*.spec.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "crypto-random-string": "^5.0.0",
+    "dotenv": "^16.0.3",
+    "mocha": "^10.2.0",
+    "moment": "^2.29.4",
+    "octokit": "^2.0.14",
+    "openai": "^3.2.1"
+  }
+}
